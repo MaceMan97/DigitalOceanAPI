@@ -2,6 +2,6 @@ packages:
   - name: sample
     actions:
       - name: hello
-        runtime: 'python:default',
+        runtime: 'python:default'    
       - name: PostDevice
         runtime: 'python:default'
