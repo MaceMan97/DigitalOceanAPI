@@ -4,5 +4,5 @@ set -e
 
 virtualenv virtualenv
 source virtualenv/bin/activate
-pip install -m requirements.txt
+pip install requirements.txt
 deactivate
